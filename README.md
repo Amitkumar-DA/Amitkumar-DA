@@ -63,6 +63,7 @@ To leverage my analytical and technical skills to transform complex datasets int
 
 * **GitHub:** [@Amitkumar-DA](https://github.com/Amitkumar-DA)
 * **Linkedin:** [amytkumar](https://www.linkedin.com/in/amytkumar)
+* **Email:** [amitkumar.in070@gmail.com]
 
 I'm always eager to learn, collaborate on data analytics projects, and connect with professionals in the data community.
 
